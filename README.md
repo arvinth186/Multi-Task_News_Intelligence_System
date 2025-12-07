@@ -375,7 +375,7 @@ Official information: <a href="https://msnews.github.io/pens" target="_blank">ht
 
 <h2>📈 Preview</h2>
 <p align="center">
-  <img src="classify_preview.png" alt="Content Summarizer" width="800">
+  <img src="classify_preview.png" alt="Classification" width="800">
 </p>
 
 <p align="center">
@@ -383,7 +383,7 @@ Official information: <a href="https://msnews.github.io/pens" target="_blank">ht
 </p>
 
 <p align="center">
-  <img src="summary_preview.png" alt="Content Summarizer" width="800">
+  <img src="summary_preview.png" alt="Summarization" width="800">
 </p>
 
 <p align="center">
@@ -391,7 +391,7 @@ Official information: <a href="https://msnews.github.io/pens" target="_blank">ht
 </p>
 
 <p align="center">
-  <img src="ner_preview.png" alt="Content Summarizer" width="800">
+  <img src="ner_preview.png" alt="NER" width="800">
 </p>
 
 <p align="center">
