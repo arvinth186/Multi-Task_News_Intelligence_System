@@ -1,0 +1,6 @@
+Model,Embedding,Precision,Recall,F1_Score
+BiLSTM,Word2Vec,0.8972,0.5958,0.6526
+BiLSTM,GloVe,0.8148,0.4661,0.5405
+BiLSTM-CRF,Word2Vec,0.8723,0.5528,0.618
+BiLSTM-CRF,GloVe,0.8168,0.4503,0.5305
+Transformer,BERT-base,0.7607,0.7951,0.7775
