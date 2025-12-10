@@ -374,6 +374,14 @@ Official information: <a href="https://msnews.github.io/pens" target="_blank">ht
 <hr>
 
 <h2>📈 Preview</h2>
+
+<p align="center">
+  <img src="login_preview.png" alt="login" width="800">
+</p>
+
+<p align="center">
+  <i>Log-In UI Page</i>
+</p>
 <p align="center">
   <img src="classify_preview.png" alt="Classification" width="800">
 </p>
